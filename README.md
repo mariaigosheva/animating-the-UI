@@ -6,6 +6,7 @@ Designed to feel cozy, natural, and welcoming — like a real forest getaway. �
 ---
 
 ## 🚀 Live Demo  
+[🔗 Visit Website](https://mariaigosheva.github.io/animating-the-UI/index.html)
 
 ---
 
