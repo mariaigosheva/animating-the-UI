@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0128pg",
+  "description": "https://scrimba.com/learn-ui-design-c024/~03c/s0o7k5fr0c/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
