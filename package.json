@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0128pg",
-  "description": "https://scrimba.com/learn-ui-design-c024/~03c/s0o7k5fr0c/head",
+  "name": "cabin-rental-website",
+  "description": "A fully responsive Cabin Rental Website built with HTML, CSS, JavaScript, and GSAP",
   "scripts": {
     "start": "vite",
     "dev": "vite",
